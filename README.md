@@ -1,4 +1,4 @@
-## <div align="left">👋 Hey there! I'm Rahul Sharma, a passionate Full Stack Web Developer with a focus on the MERN (MongoDB, Express, React, Node.js) stack.
+## <div align="left">🙏 Hey there (नमस्ते )! I'm Rahul Sharma, a passionate Full Stack Web Developer with a focus on the MERN (MongoDB, Express, React, Node.js) stack.
 </div>  
 
 🌐 I enjoy crafting interactive and dynamic web applications that deliver seamless user experiences. From designing elegant front-end interfaces with React to building robust APIs using Express and Node.js, I love bringing ideas to life through code.
